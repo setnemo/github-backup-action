@@ -1,10 +1,6 @@
 name: 'Rsync Backup Action'
 description: 'Simple backup action of your files from a remote server via rsync over ssh to the GitHub repository'
 author: 'setnemo'
-inputs:
-  switches:
-    description: 'The switches'
-    required: true
   rsh:
     description: 'The remote shell argument'
     required: false
