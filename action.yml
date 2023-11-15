@@ -1,6 +1,6 @@
 name: 'Github As Backup Storage'
 description: 'Simple backup action of your files from a remote server via rsync over ssh to the GitHub repository'
-author: 'setnemo'
+author: 'setnemo@gmail.com'
   path:
     description: 'The local path'
     required: false
