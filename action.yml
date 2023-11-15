@@ -1,4 +1,4 @@
-name: 'Github As Backup Storage'
+name: 'Backup Storage via git'
 description: 'Simple backup action of your files from a remote server via rsync over ssh to the GitHub repository'
 author: 'setnemo@gmail.com'
   path:
