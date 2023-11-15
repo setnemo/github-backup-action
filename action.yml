@@ -28,6 +28,4 @@ author: 'setnemo'
 runs:
   using: 'docker'
   image: 'Dockerfile'
-branding:
-  icon: 'send'  
-  color: 'gray-dark'
+
